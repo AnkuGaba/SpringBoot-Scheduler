@@ -1,2 +1,3 @@
-SpringBoot Scheduler.
-FixedRate and Cron can be used to scheduled here in this code.
+# SpringBoot-Schedular
+
+It is like a thread, at particular time interval they automatically add data in database
